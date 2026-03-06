@@ -1,4 +1,5 @@
-# PROG5121 – Practical Session (4/3/2026): Scanner class and Arithmetic operators
+# [PROG5121 – Practical Session (4/3/2026): Scanner class and Arithmetic operators](https://mystudies.iie.edu.za/d2l/le/lessons/69605/topics/5394275)
+Author: Mrs Fatima 
 ## Activity 1: Grade Average Calculator
 Objective: Learn how to take multiple user inputs and calculate an average.
 
