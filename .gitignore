@@ -25,3 +25,5 @@ replay_pid*
 /GradeAverageCalculator/target/
 /CurrencyConverter/target/
 /TimeConverter/target/
+/BankInterestCalculator/target/
+/BMICalculator/target/
